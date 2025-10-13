@@ -9,8 +9,8 @@ To build and evaluate machine learning model that can effectively identify indiv
 
 The workflow is structured across three phases:   
 - [I Data Cleaning](https://github.com/monikase/Data_Science/blob/main/03_CHD_Prediction/CHD_I_DataCleaning.ipynb)
-- [II EDA](https://github.com/TuringCollegeSubmissions/msedui-PYDA.4.4/blob/main/CHD_II_EDA.ipynb)
-- [III Modeling](https://github.com/TuringCollegeSubmissions/msedui-PYDA.4.4/blob/main/CHD_III_Modeling.ipynb)
+- [II EDA](https://github.com/monikase/Data_Science/blob/main/03_CHD_Prediction/CHD_II_EDA.ipynb)
+- [III Modeling](https://github.com/monikase/Data_Science/blob/main/03_CHD_Prediction/CHD_III_Modeling.ipynb)
 
 #### Model Training and Tuning:   
 Two models were selected: Logistic Regression and Random Forest. Both were optimized using GridSearchCV to find the best-performing hyperparameters.
