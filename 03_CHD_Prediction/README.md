@@ -9,7 +9,7 @@ To build and evaluate machine learning model that can effectively identify indiv
 
 The workflow is structured across three phases:   
 - [I Data Cleaning](https://nbviewer.org/github/monikase/Data_Science/blob/main/03_CHD_Prediction/CHD_I_DataCleaning.ipynb)
-- [II EDA](https://github.com/monikase/Data_Science/blob/main/03_CHD_Prediction/CHD_II_EDA.ipynb)
+- [II EDA](https://nbviewer.org/github/monikase/Data_Science/blob/main/03_CHD_Prediction/CHD_II_EDA.ipynb)
 - [III Modeling](https://github.com/monikase/Data_Science/blob/main/03_CHD_Prediction/CHD_III_Modeling.ipynb)
 
 #### Model Training and Tuning:   
