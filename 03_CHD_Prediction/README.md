@@ -8,9 +8,9 @@ This analysis undertakes a comprehensive, data-driven approach to predict the 10
 To build and evaluate machine learning model that can effectively identify individuals at high risk for developing future heart disease.  
 
 The workflow is structured across three phases (Use these links if GitHub breaks):   
-- [I Data Cleaning](https://nbviewer.org/github/monikase/Data_Science/blob/main/03_CHD_Prediction/CHD_I_DataCleaning.ipynb)
-- [II EDA](https://nbviewer.org/github/monikase/Data_Science/blob/main/03_CHD_Prediction/CHD_II_EDA.ipynb)
-- [III Modeling](https://nbviewer.org/github/monikase/Data_Science/blob/main/03_CHD_Prediction/CHD_III_Modeling.ipynb)
+- [I Data Cleaning](https://github/monikase/Data_Science/blob/main/03_CHD_Prediction/CHD_I_DataCleaning.ipynb)
+- [II EDA](https://github/monikase/Data_Science/blob/main/03_CHD_Prediction/CHD_II_EDA.ipynb)
+- [III Modeling](https://github/monikase/Data_Science/blob/main/03_CHD_Prediction/CHD_III_Modeling.ipynb)
 
 #### Model Training and Tuning:   
 Two models were selected: Logistic Regression and Random Forest. Both were optimized using GridSearchCV to find the best-performing hyperparameters.
